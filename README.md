@@ -1,8 +1,8 @@
-# mad-darkness
-Chromium Browser Theme
+# Mad Darkness
 
 ## Introduction
 A minimal and clean, extra dark theme.
+(Chromium)
 
 ## Installation
 * Clone this repository
